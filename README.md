@@ -216,10 +216,11 @@
 </tr>
 </table>
 
-### 🎖️ Certifications Obtained
-![AWS]
-![Microsoft AI Engineering]
-![Google Cloud]
+### 🎖️ Certifications Obtained  
+
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft AI Engineering](https://img.shields.io/badge/Microsoft_AI_Engineering-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![DataCamp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
