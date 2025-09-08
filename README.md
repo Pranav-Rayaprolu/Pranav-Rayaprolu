@@ -39,11 +39,9 @@
 👥 Community Leader (300+ students)
 ```
 
-### 🎯 2024 Goals
+### 🎯 2025 Goals
 - [ ] Master System Design patterns
 - [ ] Contribute to open source
-- [ ] Launch AI-powered SaaS
-- [ ] Earn AWS Solutions Architect cert
 
 </td>
 </tr>
@@ -89,7 +87,6 @@
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -219,10 +216,10 @@
 </tr>
 </table>
 
-### 🎖️ Certifications In Progress
-![AWS](https://img.shields.io/badge/AWS_Solutions_Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Azure_AI_Engineer-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP_ML_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+### 🎖️ Certifications Obtained
+![AWS]
+![Microsoft AI Engineering]
+![Google Cloud]
 
 </div>
 
@@ -286,7 +283,7 @@
 </tr>
 </table>
 
-### 🎯 2024 Learning Roadmap
+### 🎯 2025 Learning Roadmap
 ```mermaid
 graph LR
     A[System Design] --> B[Microservices]
@@ -320,18 +317,8 @@ graph LR
 <a href="mailto:pranavrayaprolu108@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://twitter.com/your-handle" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
 <br/><br/>
 
-### 📧 For Business Inquiries
-<img src="https://img.shields.io/badge/Freelance-Available-28A745?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Collaboration-Open-36BCF7?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mentorship-Available-FF9900?style=for-the-badge&logoColor=white"/>
-
-<br/><br/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Pranav-Rayaprolu&label=Profile%20Views&color=36BCF7&style=for-the-badge)
 ![GitHub Followers](https://img.shields.io/github/followers/Pranav-Rayaprolu?label=Followers&style=for-the-badge&color=36BCF7&labelColor=1a1a1a)
