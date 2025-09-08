@@ -1,112 +1,164 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+👋+I'm+Pranav+Rayaprolu;AI+Engineer+%7C+Full-Stack+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1200&color=gradient&center=true&vCenter=true&multiline=true&width=900&height=120&lines=👋+Hey+there!+I'm+Pranav;Crafting+AI+Solutions+One+Line+at+a+Time;Building+Tomorrow's+Tech+Today)
 
 </div>
 
 <div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF6B35?style=for-the-badge&logoColor=white)](https://portfolio-pied-theta-79.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-rayaprolu)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavrayaprolu108@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pranav-Rayaprolu&label=Profile%20Views&color=00D4AA&style=flat)
+## 🌟 A Little About Me
 
-</div>
-
----
-
-<div align="center">
-
-## 🚀 AI Engineer & Full-Stack Developer
-**📍 Andhra Pradesh, India** | **🎓 VIT-AP CSE** | **📊 CGPA: 9.02/10**
-
-</div>
-
----
-
-## 🎯 What I'm Building
-
-🤖 **LifeSync AI** - Personal productivity companion with 60% improved reliability  
-⚡ **Meeting Summarizer** - AI-powered summaries with 92% accuracy  
-📊 **Scalable AI Systems** - High-performance backends with 5x speed improvements  
-
----
-
-## 💼 Experience
-
-**AI Engineer** | Intraintech, Hyderabad | *May 2024 - Jun 2024*
-- Optimized APIs for 5x performance improvement
-- Built AI backends with 20% accuracy boost
-- Led team of 6 developers using Agile methodologies
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python • JavaScript • SQL • Java • R
-
-**AI/ML:** LangChain • OpenAI • Groq • Hugging Face • spaCy
-
-**Web:** React • FastAPI • Node.js • PostgreSQL • MongoDB
-
-**Cloud:** AWS • Firebase
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 🥇 HackOn with Amazon | 📄 Research Published | 🌟 Open Source | 👨‍💼 Team Leader |
-|:---:|:---:|:---:|:---:|
-| Top 5% Finalist | InterviewBot Paper | Hacktoberfest Badge | 300+ Members |
-
-</div>
-
-**Key Highlights:**
-- 🎯 Amazon Interview Offer from hackathon performance
-- 📚 30% accuracy improvement in AI recruitment systems  
-- 💰 ₹3000 Engineering Excellence Award
-- 🚀 Entrepreneurship Program Qualifier
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pranav-Rayaprolu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&icon_color=00D4AA&text_color=FFFFFF" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Rayaprolu&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4AA&ring=00D4AA&fire=FF6B35&currStreakLabel=00D4AA" height="180"/>
-
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-**B.Tech Computer Science** - VIT Amaravati | **CGPA: 9.02/10**
-
-![AWS](https://img.shields.io/badge/🎖️_AWS_Cloud_Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Microsoft](https://img.shields.io/badge/🏅_Microsoft_AI_&_ML-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect
-
-*Building AI systems that understand human intent and scale efficiently*
-
-[![Let's Connect](https://img.shields.io/badge/💬_Open_to_Opportunities-00D4AA?style=for-the-badge&logoColor=white)](mailto:pranavrayaprolu108@gmail.com)
+*Just a curious developer who fell in love with making machines understand humans better*
 
 </div>
 
 ---
 
 <div align="center">
-  
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=00D4AA&height=120&section=footer)
+
+🎓 **Computer Science Student** at VIT-AP University  
+🤖 **AI Enthusiast** who loves solving real problems  
+🚀 **Full-Stack Tinkerer** building cool stuff on the web  
+📍 **Based in** Andhra Pradesh, India  
+
+</div>
+
+---
+
+## ⚡ What Gets Me Excited
+
+When I'm not buried in textbooks (maintaining that 9.02 CGPA 📚), you'll find me:
+
+🧠 **Experimenting** with Large Language Models and seeing what crazy things they can do  
+💡 **Building** productivity tools that actually make life easier (not harder!)  
+🎯 **Competing** in hackathons and learning from brilliant minds  
+📖 **Publishing** research because sharing knowledge makes everyone smarter  
+
+---
+
+<div align="center">
+
+## 🎨 My Creative Arsenal
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+*Currently obsessing over*: **LangChain** • **OpenAI APIs** • **Vector Databases**
+
+</div>
+
+---
+
+## 🚀 Cool Things I've Built
+
+### 🧠 **LifeSync AI**
+*An AI buddy that actually remembers our conversations and helps with productivity*
+- Made it 60% more reliable (because nobody likes crashed AI assistants!)
+- It remembers context across chats - pretty neat, right?
+
+### 📝 **Meeting Summarizer**  
+*For everyone who zones out during meetings (we've all been there)*
+- Turns boring hour-long meetings into 5 crisp bullet points
+- 92% accuracy because life's too short for bad summaries
+
+---
+
+<div align="center">
+
+## 🏆 Some Wins Along the Way
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**🥇**  
+**HackOn with Amazon**  
+Made it to top 5%  
+*(Still can't believe it!)*
+
+</td>
+<td align="center" width="33%">
+
+**📄**  
+**Published Research**  
+InterviewBot paper  
+*30% better at understanding humans*
+
+</td>
+<td align="center" width="33%">
+
+**👥**  
+**Led 300+ Students**  
+CSI Team Coordinator  
+*Learned patience is indeed a virtue*
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Journey
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pranav-Rayaprolu&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Rayaprolu&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ffa500&currStreakLabel=ff6b6b" height="170"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-Rayaprolu&theme=tokyo-night&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area_color=ff6b6b&area=true&hide_border=true" width="100%"/>
+
+![Contribution Snake](https://github.com/Pranav-Rayaprolu/Pranav-Rayaprolu/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌱 Always Learning
+
+Currently diving deep into the fascinating world of **Generative AI** and **System Design**  
+*Because there's always something new to discover in tech!*
+
+![AWS](https://img.shields.io/badge/🎖️_AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft](https://img.shields.io/badge/🏅_Microsoft_AI_ML-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 A Quick Philosophy
+
+*"Code is poetry, AI is magic, and every bug is just a learning opportunity in disguise"*
+
+---
+
+## 🤝 Let's Chat!
+
+Always excited to connect with fellow tech enthusiasts, discuss wild AI ideas,  
+or just geek out about the latest developments in tech!
+
+[![Portfolio](https://img.shields.io/badge/🌐_Check_Out_My_Work-FF6B35?style=for-the-badge&logoColor=white)](https://portfolio-pied-theta-79.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-rayaprolu)
+[![Email](https://img.shields.io/badge/Drop_a_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranavrayaprolu108@gmail.com)
+
+![Visitors](https://komarev.com/ghpvc/?username=Pranav-Rayaprolu&label=Curious%20Visitors&color=ff6b6b&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+*Thanks for stopping by! Hope you found something interesting here* 😊
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 
 </div>
