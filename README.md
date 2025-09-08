@@ -28,15 +28,15 @@ class PranavRayaprolu:
         self.location = "Andhra Pradesh, India 🇮🇳"
         self.education = "VIT-AP | CSE | CGPA: 9.02/10 🎓"
         self.mission = "Democratizing AI through scalable, intelligent systems"
-
+        
     def current_focus(self):
         return [
             "🤖 Building LifeSync AI - Next-gen productivity companion",
-            "🚀 Scaling AI systems with 60%+ reliability improvements",
+            "🚀 Scaling AI systems with 60%+ reliability improvements", 
             "🧠 Experimenting with LLM orchestration & vector databases",
             "📊 Creating AI-first analytics that predict user behavior"
         ]
-
+        
     def achievements(self):
         return {
             "research": "Published InterviewBot paper - 30% accuracy boost",
@@ -55,7 +55,6 @@ class PranavRayaprolu:
 ## 🔥 **Arsenal of Innovation**
 
 ### **Core Technologies**
-
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -63,7 +62,6 @@ class PranavRayaprolu:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### **AI/ML Powerhouse**
-
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-FF6B35?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Groq](https://img.shields.io/badge/⚡_Groq-FF6B35?style=for-the-badge)
@@ -71,7 +69,6 @@ class PranavRayaprolu:
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
 ### **Data & Cloud**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -91,16 +88,14 @@ class PranavRayaprolu:
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 **LifeSync AI**
-
-_AI-Powered Personal Mentor & Productivity Companion_
+### 🧠 **LifeSync AI** 
+*AI-Powered Personal Mentor & Productivity Companion*
 
 **🔧 Tech Stack:** React • FastAPI • LangChain • Groq • Google AI Studio • PostgreSQL
 
 **🚀 Impact Metrics:**
-
 - ⚡ **60%** improvement in response reliability
-- 🎯 **90%+** accuracy in contextual conversations
+- 🎯 **90%+** accuracy in contextual conversations  
 - 📈 **35%** boost in simulated task completion
 - 🔄 Multi-LLM fallback system architecture
 
@@ -110,13 +105,11 @@ _AI-Powered Personal Mentor & Productivity Companion_
 <td width="50%" valign="top">
 
 ### 📝 **Meeting Summariser AI**
-
-_End-to-End Meeting Productivity Platform_
+*End-to-End Meeting Productivity Platform*
 
 **🔧 Tech Stack:** React • FastAPI • LangChain • Firebase • NLP Models
 
 **🚀 Impact Metrics:**
-
 - 📊 **92%+** parsing accuracy for AI summaries
 - ⏱️ 5-bullet point intelligent extraction
 - 💡 **45%** improvement in post-meeting clarity
@@ -139,28 +132,28 @@ _End-to-End Meeting Productivity Platform_
 <td align="center" width="25%">
 
 **🥇 HackOn with Amazon**  
-_Top 5% Finalist_  
+*Top 5% Finalist*  
 Secured Amazon Interview
 
 </td>
 <td align="center" width="25%">
 
 **📄 Research Publication**  
-_InterviewBot Paper_  
+*InterviewBot Paper*  
 30% Accuracy Improvement
 
 </td>
 <td align="center" width="25%">
 
 **🌟 Open Source Hero**  
-_Hacktoberfest Badge_  
+*Hacktoberfest Badge*  
 Global Contributions
 
 </td>
 <td align="center" width="25%">
 
 **👨‍💼 Leadership Excellence**  
-_CSI Team Coordinator_  
+*CSI Team Coordinator*  
 Managed 300+ Members
 
 </td>
@@ -202,7 +195,7 @@ Managed 300+ Members
 
 ## 💭 **Philosophy**
 
-> _"Building AI that doesn't just compute, but comprehends. Creating systems that don't just process data, but understand human intent."_
+> *"Building AI that doesn't just compute, but comprehends. Creating systems that don't just process data, but understand human intent."*
 
 **🎯 Mission:** Bridging the gap between human creativity and artificial intelligence through scalable, ethical, and innovative solutions.
 
