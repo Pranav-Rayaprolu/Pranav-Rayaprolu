@@ -1,62 +1,77 @@
-# 💫 About Me:
-
-🚀 Computer Science Engineer (B.Tech, VIT-AP, CGPA: 9.02/10) <br>  
-🤖 AI & Full-Stack Developer passionate about **Generative AI, LLMs, and Scalable Systems** <br>  
-🎯 Building impactful AI-driven products that merge **productivity, creativity, and technology** <br>  
-🏆 Hackathon Finalist | Research Paper Author | Open Source Contributor
+<h1 align="center">Hi 👋, I'm Pranav Rayaprolu</h1>
+<h3 align="center">🚀 AI Engineer | Full-Stack Developer | Generative AI Enthusiast</h3>
 
 ---
 
-## 🌐 Socials:
+## 💫 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-rayaprolu/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Pranav-Rayaprolu)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2304A54D.svg?logo=web&logoColor=white)]()
-
----
-
-# 💻 Tech Stack:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)  
-![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=plastic&logo=database&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)  
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-%23430098.svg?style=plastic&logo=chain&logoColor=white)  
-![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-%234285F4.svg?style=plastic&logo=google&logoColor=white)  
-![Groq](https://img.shields.io/badge/Groq-AI-%23FF6F00.svg?style=plastic&logo=ai&logoColor=white)  
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=plastic&logo=openai&logoColor=white)
+- 🎓 B.Tech in Computer Science Engineering @ VIT-AP (CGPA: **9.02/10**)
+- 🤖 Passionate about **Generative AI, Full-Stack Development, and Scalable Systems**
+- 🏆 Finalist @ **HackOn with Amazon**, Research Paper Author, Open Source Contributor
+- 🔭 Currently building: **LifeSync AI – An AI-Powered Productivity Companion**
+- 🌱 Learning & experimenting with **LLMs, LangChain, and AI-first system design**
 
 ---
 
-# 📊 GitHub Stats:
+## 🌐 Connect With Me
 
-![](https://github-readme-stats.vercel.app/api?username=Pranav-Rayaprolu&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Rayaprolu&theme=dark&hide_border=true)<br/>  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Rayaprolu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Pranav-Rayaprolu&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Pranav-Rayaprolu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="left">
+  <a href="https://linkedin.com/in/pranav-rayaprolu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Pranav-Rayaprolu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:pranavrayaprolu108@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Pranav-Rayaprolu&icon=9&color=0)](https://visitcount.itsvg.in)
+## 💻 Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,flask,html,css,tailwind,mysql,mongodb,postgres,vercel,git" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,googlecloud,figma,ai" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🔹 **[LifeSync AI](#)** – AI-Powered Mentor & Productivity Companion  
+  _MERN stack + LangChain + Groq + Google AI Studio_  
+  ➡️ Improved reliability by **60%**, boosted task completion by **35%**
+
+- 🔹 **[Meeting Summariser AI](#)** – Smart meeting productivity app  
+  _React + FastAPI + Firebase + LangChain_  
+  ➡️ AI summaries with **92%+ accuracy**, improved clarity by **45%**
+
+---
+
+## 🏆 Achievements
+
+- 📄 Published Research: _InterviewBot – Enhancing Recruitment with Generative AI_
+- 🥇 Finalist at **HackOn with Amazon** (Top 5%)
+- 🌍 Earned **Hacktoberfest Badge** for open-source contributions
+- 🎖 AWS Certified Cloud Practitioner | Microsoft AI & ML Engineer
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranav-Rayaprolu&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav-Rayaprolu&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-Rayaprolu&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Pranav-Rayaprolu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</p>
