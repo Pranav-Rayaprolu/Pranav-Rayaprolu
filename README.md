@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey%20There!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20digital%20playground&descAlignY=60&descAlign=50"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=900&height=120&lines=👋+Hey,+I'm+Pranav+Rayaprolu;🤖+AI+Developer;🚀+Turning+Ideas+into+Reality)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=900&height=120&lines=👋+Hey,+I'm+Pranav+Rayaprolu;🤖+AI+Developer)
 
 <br/>
 
