@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey%20There!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20digital%20workspace&descAlignY=60&descAlign=50"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=900&height=110&lines=👋+Hey,+I'm+Pranav+Rayaprolu;☁️+Backend+%26+Cloud+%2F+Infrastructure+Engineer+(Aspirant))
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=👋+Hey,+I'm+Pranav+Rayaprolu;☁️+Backend+%26+Cloud+Engineer;🏗️+Infrastructure+%2F+SRE+(Aspirant))
+
 
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
