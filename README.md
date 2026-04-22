@@ -1,62 +1,74 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey%20There!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20digital%20workspace&descAlignY=60&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hey%20There!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20LLM-powered%20Systems&descAlignY=60&descAlign=50"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=👋+Hey,+I'm+Pranav+Rayaprolu;☁️+Backend+%26+Cloud+Engineer;🏗️+Infrastructure+%2F+SRE+(Aspirant))
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=👋+Hey,+I'm+Pranav+Rayaprolu;🤖+LLM+%2F+NLP+Systems+Builder;📊+Turning+Unstructured+Data+into+Structured+Insights)
 
-
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 </div>
+
+---
 
 ## 🚀 About Me
 
-I am a **Computer Science undergraduate** with a strong interest in **backend systems, cloud infrastructure, and reliability engineering**.  
-My work focuses on **deploying, containerizing, monitoring, and operating backend services** in Linux-based cloud environments.
+I am a **Computer Science undergraduate at VIT** focused on building **LLM-powered systems** that transform **unstructured data into structured, actionable insights**.
 
-- 🎓 CS @ **VIT University**
-- ☁️ Interested in **Infrastructure / Cloud / SRE**
-- 🐧 Comfortable with **Linux environments**
-- 🔁 Experience with **CI/CD pipelines**
-- 🌍 Based in **India**, open to global opportunities
+My work sits at the intersection of:
+- **NLP & Large Language Models**
+- **Information Retrieval & Knowledge Extraction**
+- **Backend Systems (FastAPI, scalable APIs)**
+
+I enjoy solving problems like:
+- Extracting structured insights from text  
+- Building intelligent agents over real-world data  
+- Designing end-to-end ML pipelines  
 
 ---
 
-## 🛠️ Core Technical Focus
+## 🧠 Core Technical Skills
 
-### ☁️ Cloud & Infrastructure
-- AWS (EC2, IAM, S3 – foundational)
-- Linux server environments
-- Docker & containerized deployments
-- GitHub Actions (CI/CD)
+### 🤖 LLM / NLP
+- Prompt Engineering  
+- Embeddings & Vector Search  
+- Retrieval-Augmented Generation (RAG)  
+- Text Summarization & Information Extraction  
 
-### ⚙️ Backend Systems
-- FastAPI, Flask
-- REST APIs & JWT authentication
-- Logging, monitoring, and basic reliability practices
+### ⚙️ Backend + ML Systems
+- FastAPI, Flask  
+- REST APIs & JWT Auth  
+- End-to-end pipeline design  
+- API integration with LLM systems  
 
 ### 💻 Programming
-- Python
-- Java
-- Bash
+- Python (primary)  
+- Java  
 
 ---
 
-## 📦 Featured Projects (Infrastructure-Oriented)
+## 🔥 Featured Projects
 
-### 🔹 Cloud-Deployed Backend System
-**Tech:** FastAPI · Docker · Linux · GitHub Actions  
-- Deployed backend services on a Linux-based cloud environment  
-- Containerized applications for consistent server deployments  
-- Automated build and deployment pipelines using CI/CD  
-- Integrated authentication and basic service monitoring  
+### 🔹 Meeting Summariser AI
+**Tech:** FastAPI · LLMs · NLP · React · Firebase  
+- Built an AI system that converts raw meeting transcripts into **structured summaries and action items**  
+- Designed pipelines for **information extraction and summarization**  
+- Integrated authentication, analytics dashboard, and CRUD workflows  
+- Focused on extracting meaningful signals from unstructured conversations  
 
 ---
 
-### 🔹 Automated System Health Monitor
-**Tech:** Python · Logging · Monitoring  
-- Built health checks for application uptime and availability  
-- Implemented centralized logging and error tracking  
-- Designed alert mechanisms for service failures  
-- Focused on fault detection and recovery
+### 🔹 Natural Language → SQL Agent
+**Tech:** Python · LLMs · Prompting · SQL · APIs  
+- Built an AI agent that converts natural language queries into SQL  
+- Designed prompt pipelines for accurate query generation  
+- Enabled users to extract insights from structured databases using plain English  
+- Worked with schema understanding and query optimization  
+
+---
+
+### 🔹 (Optional – ADD THIS IF YOU BUILD)
+### 🔹 Research Paper Insight Extractor (In Progress 🚧)
+**Tech:** LLMs · NLP · Document Parsing · RAG  
+- Extracting structured insights from scientific papers  
+- Building pipelines for **Q&A, summarization, and entity extraction**  
+- Exploring document understanding and knowledge retrieval  
 
 ---
 
@@ -71,13 +83,12 @@ My work focuses on **deploying, containerizing, monitoring, and operating backen
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- System Design fundamentals
-- Cloud architecture patterns
-- Docker & container best practices
-- Monitoring and reliability concepts
-- Basics of Kubernetes
+- Advanced RAG architectures  
+- Scientific document understanding  
+- Agentic AI systems  
+- Scalable LLM pipelines  
 
 ---
 
@@ -93,8 +104,4 @@ My work focuses on **deploying, containerizing, monitoring, and operating backen
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer"/>
 </div>
